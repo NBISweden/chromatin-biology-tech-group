@@ -57,8 +57,11 @@ Marek Bartosovic & Gonçalo Castelo-Branco, 2022
 </details>
 
 <details>
-<summary>Slides</summary>
-  [Multimodal single-cell nanoCut&Tag](slides/21xi2025/Bartosovic-chrombiol-21xi2025.pdf)
+  <summary>Slides</summary>
+
+  <a href="slides/21xi2025/Bartosovic-chrombiol-21xi2025.pdf">
+    Multimodal single-cell nanoCut&Tag
+  </a>  
 </details>
 
 
