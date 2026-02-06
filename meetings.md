@@ -23,6 +23,15 @@ Comparative evaluation of genomic footprinting algorithms for predicting transcr
 
 Amanda Everitt, Sean Whalen, Katherine S. Pollard
 
+
+<details>
+<summary>Paper</summary>
+  *preprint*
+  https://www.biorxiv.org/content/10.1101/2025.08.07.669008v1.full
+</details>
+
+
+
 </details>
   <summary>Paper</summary>
   *preprint*
