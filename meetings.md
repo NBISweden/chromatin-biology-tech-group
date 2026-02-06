@@ -53,7 +53,6 @@ Marek Bartosovic & Gonçalo Castelo-Branco, 2022
 
 <details>
 <summary>Paper</summary>
-  *preprint*
   https://www.nature.com/articles/s41587-022-01535-4
 </details>
 
