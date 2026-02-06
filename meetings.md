@@ -9,9 +9,12 @@ Chromatin-dependent motif syntax defines differentiation trajectories
 
 Durdu et al 2025
 
- <summary>Paper</summary>
-https://www.sciencedirect.com/science/article/pii/S1097276525006069
- </details>
+
+<details>
+<summary>Paper</summary>
+  https://www.sciencedirect.com/science/article/pii/S1097276525006069
+</details>
+
 
 
 
@@ -30,16 +33,10 @@ Amanda Everitt, Sean Whalen, Katherine S. Pollard
   https://www.biorxiv.org/content/10.1101/2025.08.07.669008v1.full
 </details>
 
-
-
-</details>
-  <summary>Paper</summary>
-  *preprint*
-  https://www.biorxiv.org/content/10.1101/2025.08.07.669008v1.full
-  
-  <summary>Slides</summary>
+<details>
+<summary>Slides</summary>
   ./slides/9i2026/Everitt-chrombiol-9i2026.pdf
-  </details>
+</details>
 
 
 
@@ -51,13 +48,17 @@ Multimodal chromatin profiling using nanobody-based single-cell CUT&Tag
 
 Marek Bartosovic & Gonçalo Castelo-Branco, 2022
 
- <summary>Paper</summary>
-https://www.nature.com/articles/s41587-022-01535-4
- </details>
 
- <summary>Slides</summary>
-https://docs.google.com/presentation/d/1akAh26tPXQm4yQVcgGbq8x5iZoJvlBwdcdllmefAMAs/edit?usp=sharing 
- </details>
+<details>
+<summary>Paper</summary>
+  *preprint*
+  https://www.nature.com/articles/s41587-022-01535-4
+</details>
+
+<details>
+<summary>Slides</summary>
+  https://docs.google.com/presentation/d/1akAh26tPXQm4yQVcgGbq8x5iZoJvlBwdcdllmefAMAs/edit?usp=sharing
+</details>
 
 
 
