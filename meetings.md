@@ -35,7 +35,8 @@ Amanda Everitt, Sean Whalen, Katherine S. Pollard
 
 <details>
 <summary>Slides</summary>
-  ./slides/9i2026/Everitt-chrombiol-9i2026.pdf
+    <a href="slides/9i2026/Everitt-chrombiol-9i2026.pdf">
+    Everitt 2025
 </details>
 
 
