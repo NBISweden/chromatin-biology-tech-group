@@ -48,11 +48,8 @@ Multimodal chromatin profiling using nanobody-based single-cell CUT&Tag
 
 Marek Bartosovic & Gonçalo Castelo-Branco, 2022
 
-[Multimodal single-cell nanoCut&Tag](slides/21xi2025/Bartosovic-chrombiol-21xi2025.pdf)
-
 <details>
 <summary>Paper</summary>
-  *preprint*
   https://www.nature.com/articles/s41587-022-01535-4
 </details>
 
