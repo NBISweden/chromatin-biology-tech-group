@@ -5,6 +5,6 @@ Repository of chromatin biology tech group, mostly to document interesting paper
 Next meeting:
 
 6th March 2026
-14:00
+13:00
 
 *Yuan*
