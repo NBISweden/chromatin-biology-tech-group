@@ -1,5 +1,19 @@
 # Meetings
 
+## 15 Apr 2026
+
+*Agata*
+
+Bulk ATAC-seq QC (project discussion)
+
+
+## 6 Mar 2026
+
+*Agata*
+
+Bulk ATAC-seq QC (project discussion)
+
+
 ## 6 Feb 2026
 
 *Markus*
