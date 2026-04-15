@@ -4,7 +4,7 @@ Repository of chromatin biology tech group, mostly to document interesting paper
 
 Next meeting:
 
-15th April 2026
+8th May 2026
 14:00
 
-*Agata*
+*Louella*
