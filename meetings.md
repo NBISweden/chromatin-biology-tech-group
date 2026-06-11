@@ -1,5 +1,17 @@
 # Meetings
 
+## 12 June 2026
+
+*Roy*
+
+scATAC-seq (project discussion)
+
+## 8 May 2026
+
+*Louella*
+
+scCUT&Tag (project discussion)
+
 ## 15 Apr 2026
 
 *Agata*
