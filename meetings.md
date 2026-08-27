@@ -1,5 +1,11 @@
 # Meetings
 
+## 9 September 2026
+
+*Débora* 
+
+ATAC-seq, HiC (project discussion)
+
 ## 12 June 2026
 
 *Roy*
