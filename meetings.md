@@ -1,5 +1,18 @@
 # Meetings
 
+## Planned
+
+(January 2027?)
+*Louella*
+
+scDNAme
+
+## 28th October 2026
+
+*Agata*
+
+ATAC-seq cont. part 15754
+
 ## 9 September 2026
 
 *Débora* 
