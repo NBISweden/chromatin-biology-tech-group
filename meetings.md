@@ -3,14 +3,17 @@
 ## Planned
 
 * (early 2027?)
-  *Louella*
 
-  scDNAme
+*Louella*
+
+scDNAme
 
 *  (meeting in December)
-  *Dania*
 
-  monaLisa on scATAC-seq
+*Dania*
+
+monaLisa on scATAC-seq
+
 
 ## 30th October 2026
 
