@@ -8,11 +8,12 @@
 
 scDNAme
 
-*  (meeting in December)
+
+## 4th December 2026
 
 *Dania*
 
-monaLisa on scATAC-seq
+single cell ATAC- + RNA-seq and motif analyses with monaLisa (project discussion)
 
 
 ## 30th October 2026
