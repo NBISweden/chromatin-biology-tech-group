@@ -4,7 +4,7 @@ Repository of chromatin biology tech group, mostly to document interesting paper
 
 Next meeting:
 
-30 October 2026
-11:00
+4 December 2026
+14:00
 
-*Agata*
+*Dania - single cell ATAC- + RNA-seq and motif analyses*
